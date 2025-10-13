@@ -1,6 +1,8 @@
 <!-- 
     README.md @ re-pol 2025
     No joke, this has been like 3 hours of creating. But I think it came out alright?
+
+    I did basically all of the work for nothing, I didn't realize that GITHUB wouldn't show it...
  -->
 
 <h4 style="font-weight: 600; font-size: 25px; color: #cf395b;"> re-pol // profile </h4>
