@@ -4,10 +4,6 @@
 
     I did basically all of the work for nothing, I didn't realize that GITHUB wouldn't show it...
  -->
-
-<h4 style="font-weight: 600; font-size: 25px; color: #cf395b;"> re-pol // profile </h4>
-<hr style="margin-bottom: -3rem; display: block; justify-content: left;margin-right: 0; background: #c52046ff; box-shadow: 0px 0px 6px #9e2b45ff; height: .30rem; border-radius: 0.15rem;">
-
 ![Header](readme-header.png)
 
 
