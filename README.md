@@ -17,9 +17,7 @@
 <h3>// projects</h3>
 <div>
 <ul>
-    <li>FiveM Resources: Trying to create unique and well performing resources for frameworks such as QBox.</li>
-    <li>RedM Resources: More like experiments with the new features and natives that are available in Red Dead Redemption 2.</li>
-    <li>Personal Website: I've always been meaning to create my own website, so maybe now is the correct time for that.</li>
+  <li>To be added</li>
 </ul>
 </div>
 
@@ -27,16 +25,15 @@
 <h3>// learning</h3>
 <div>
 <ul>
-    <li>RDR2 ASI Mods: <span>Since working with RedM, I realized that since it uses the same natives, there's a lot of possibilties when it comes to possible mods for Red Dead Redemption 2.</span></li>
-    <li>C++: <span>Slowly but surely... maybe not, i mean I just want to be not think about it, it hurts brain.</span></li>
+  <li>To be added</li>
 </ul>
 </div>
 
 <hr>
 <h3>// nerd stuff</h3>
 <div>
-<p><span>Operating System:</span> I started daily driving <span>Arch Linux</span> around late 2024. I still have to keep a Windows install on another drive as I need to play some games with Anti-Cheat because they are too dumb to finally allow for Linux users to enjoy them. Their loss.</p>
-<p><span>Code Editor:</span> I use <span>nvim</span> on Arch and VS Code on Windows since it's just easier for me.</p>
+<p><span>Operating System:</span> Currently using Omarchy, which is a super easy and at least so far good Arch based configuration ISO</p>
+<p><span>Code Editor:</span>lazyvim</p>
 </div>
 
 <hr>
